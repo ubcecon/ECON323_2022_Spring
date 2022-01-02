@@ -6,27 +6,22 @@ We will follow the [QuantEcon DataScience](https://datascience.quantecon.org/) t
 
 ## Computational Setup
 
-You will not need to install any software on your local computer.  Instead:
+Installing software on your laptop is not mandatory. Instead,
 - Go to the [QuantEcon DataScience Introduction](https://datascience.quantecon.org/introduction/)
 - One time setup: click on the "Settings" icon at the bottom of a lecture and choose the server: ubc.syzygy.ca
 - Then click on the "Launch Notebook" to launch any notebook in your computing environment
 - See [Troubleshooting](https://datascience.quantecon.org/introduction/troubleshooting.html) for how to reset notebooks, etc.
 - We strongly suggest creating a GitHub account and signing up for the [GitHub Student Developer Pack](https://education.github.com/pack/)
 
+You are also encouraged to install Python (preferably Anaconda) on your machines.
+
 If possible, please bring a laptop to class to interactively discuss the material.
 
 ## Instructor and Teaching Assistant
-Section 2
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - Office Hours: Mondays 1pm - 2pm, Iona #013
-- TA: Kuo Yan [yankuo919@gmail.com](mailto:yankuo919@gmail.com)
-- Office Hours: Fridays 1pm - 2pm, Iona #335
-  
-Section 3
-- Paul Schrimpf [schrimpf@mail.ubc.ca](mailto:schrimpf@mail.ubc.ca)
-- Office Hours: Wednesdays 6pm, Zoom link available through Canvas
-- TA: Josh Catalano [jcatal@student.ubc.ca](mailto:jcatal@student.ubc.ca)
-- Office Hours: Wednesdays 10am - 11am, Zoom link available through Canvas
+- TA: Sudipta Ghosh [gsudipta01@gmail.com](mailto:gsudipta01@gmail.com)
+- Office Hours: TBD
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
