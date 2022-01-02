@@ -1,6 +1,6 @@
 # Course materials for ECON323 Fall 2021
 
-Previous **programming experience** and classwork is useful, but **not required**.  But even if you know how to program, you will learn a great deal of interesting applications.
+Previous **programming experience** and classwork is useful, but **not required**.  We will also talk about the applications of the econometric and statistical learning methods.
 
 We will follow the [QuantEcon DataScience](https://datascience.quantecon.org/) textbook
 
