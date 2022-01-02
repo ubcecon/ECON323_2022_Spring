@@ -37,8 +37,6 @@ All materials will be provided online:
 
 ## Topics
 
-We won't be able to cover it all
-
 1. **Python Fundamentals**
   * Introduction to Python
   * Basics
