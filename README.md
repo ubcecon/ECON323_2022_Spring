@@ -8,7 +8,7 @@ We will follow the [QuantEcon DataScience](https://datascience.quantecon.org/) t
 
 Installing software on your laptop is not mandatory. Instead,
 - Go to the [QuantEcon DataScience Introduction](https://datascience.quantecon.org/introduction/)
-- One time setup: click on the "Settings" icon at the bottom of a lecture and choose the server: ubc.syzygy.ca
+- One-time setup: click on the "Settings" icon at the bottom of a lecture and choose the server: ubc.syzygy.ca
 - Then click on the "Launch Notebook" to launch any notebook in your computing environment
 - See [Troubleshooting](https://datascience.quantecon.org/introduction/troubleshooting.html) for how to reset notebooks, etc.
 - We strongly suggest creating a GitHub account and signing up for the [GitHub Student Developer Pack](https://education.github.com/pack/)
@@ -36,8 +36,6 @@ Grading: Weekly problem sets: 50%; Final projects: 45%; Attendance/Participation
 
 The [final project](final_project.md) is open ended. See [previous projects](https://datascience.quantecon.org/theme/projects.html)
 
-## Lecture and Problem Set Schedule
-- [Schedule for Section 2 (Peifan Wu)](schedule2.md)
-- [Schedule for Section 3 (Paul Schrimpf)](schedule3.md)
+[Lecture and Problem Set Schedule](schedule.md)
 
-All problem sets are to be sent as clean, *executed* `.ipynb` notebooks on Canvas.
+All problem sets are to be sent as clean, **executed** `.ipynb` notebooks on Canvas.
