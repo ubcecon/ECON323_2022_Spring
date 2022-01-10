@@ -1,9 +1,7 @@
 
 ## Quantitative Economic Modeling with Data Science Applications
 
-- **Instructor:**
-  - Section 2: Peifan Wu, wupeifan@mail.ubc.ca
-  - Section 3: Paul Schrimpf, schrimpf@mail.ubc.ca
+- **Instructor:** Peifan Wu, wupeifan@mail.ubc.ca
 - **Textbook:** [QuantEcon DataScience](https://datascience.quantecon.org/)
 
 
@@ -13,20 +11,14 @@ This is a course introducing the computational and data science tools used in mo
 We will apply a programming language (Python) to analyze these sorts of
 data and making numerical calculations/simulations of models in economics.
 
-Classes for Section 2 will be held in-person in [HEBB 114](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=HEBB&roomID=114) on Tuesdays and Thursdays 3:30pm-5:00pm. Classes for Section 3 will be held in-person in [EOS 135](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=EOS&roomID=135) on Mondays and Wednesdays 1:30pm-2:50pm.
+The first two weeks of the classes, up to Jan 24th, will be held virtually on Zoom. According to the current UBC policy, we will meet **in-person** starting from the week of Jan 24th. The classes will be held at **Iona #633** on Mondays and Wednesdays, 8:30am - 9:50am. These schedules will be subject to changes in related UBC policies.
 
-For students who cannot
-attend in person, class recordings will also be available on Zoom, through
-http://canvas.ubc.ca. **Attending class remotely for the whole semester is not allowed.**
-
-Provincial Health Orders and UBC policy now mandate masks in all
-indoor public spaces on campus. These spaces include classrooms,
-residence halls, libraries, and common areas.
+For students who cannot attend in person, class recordings will also be available on Zoom, through http://canvas.ubc.ca.
 
 ## Course Materials and Communications
 
 All materials will be provided online:
-- Class Materials: https://github.com/ubcecon/ECON323_2021_Fall
+- Class Materials: https://github.com/ubcecon/ECON323_2022_Spring
 - Communications, Announcements, Grades, Zoom, Piazza: http://canvas.ubc.ca
 
 ## Grading
@@ -82,11 +74,11 @@ All materials will be provided online:
 
 ## Schedule
 
-Tentative schedules for [Section 2](schedule2.md) and [Section 3](schedule3.md).
+[Tentative schedule](schedule.md)
 
 ## COVID-19 Safety
 
-You are required to wear a non-medical mask during our class meetings, for your own protection and the safety and comfort of everyone else in the class. For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in class activities while sharing an indoor space. Non-medical masks that cover our noses and mouths are a primary tool for combating the spread of COVID-19. Further, according to the provincial mandate, masks are required in all indoor public spaces including lobbies, hallways, stairwells, elevators, classrooms, and labs. There may be students who have medical accommodations for not wearing a mask. Please maintain a respectful environment. [UBC Respectful Environment Statement](https://hr.ubc.ca/working-ubc/respectful-environment)
+You are required to wear a non-medical mask during our class meetings, for your own protection and the safety and comfort of everyone else in the class. For our in-person meetings in this class, it is important that all of us feel as comfortable as possible engaging in-class activities while sharing an indoor space. Non-medical masks that cover our noses and mouths are a primary tool for combating the spread of COVID-19. Further, according to the provincial mandate, masks are required in all indoor public spaces including lobbies, hallways, stairwells, elevators, classrooms, and labs. There may be students who have medical accommodations for not wearing a mask. Please maintain a respectful environment. [UBC Respectful Environment Statement](https://hr.ubc.ca/working-ubc/respectful-environment)
 
 ## UBC values and policies
 
