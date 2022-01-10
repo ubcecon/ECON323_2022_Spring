@@ -21,7 +21,7 @@ If possible, please bring a laptop to class to interactively discuss the materia
 - Peifan Wu [peifan.wu@ubc.ca](mailto:peifan.wu@ubc.ca)
 - Office Hours: Mondays 1pm - 2pm, Iona #013
 - TA: Sudipta Ghosh [gsudipta01@gmail.com](mailto:gsudipta01@gmail.com)
-- Office Hours: TBD
+- Office Hours: Thursdays 10am - 11am, Zoom link on Canvas
 
 ## Syllabus
 See [Syllabus](syllabus.md) for more details
