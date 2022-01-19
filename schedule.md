@@ -4,10 +4,10 @@ This is a tentative schedule and will be updated as the course progresses.
 1. **January 10** - Overview and start [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html)
 2. **January 12** - Finish [Python Basics](https://datascience.quantecon.org/python_fundamentals/basics.html) and [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html)
 3. **January 17** - Finish [Collections](https://datascience.quantecon.org/python_fundamentals/collections.html) and start [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html)
-4. **January 19** - [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) Lab session on PS 1, Jupyter, Syzygy, etc. 
+4. **January 19** - The rest of [Control Flow](https://datascience.quantecon.org/python_fundamentals/control_flow.html) Lab session on PS 1, Jupyter, Syzygy, etc. 
+5. **January 24** -  [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html) Net present value stuff (preparation for PS 2).
+6. **January 26** - PS1 review,  [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 <!--
-5. **January 24** -  continued. Net present value stuff (preparation for PS 2).
-6. **January 26** - PS1 review, [Functions](https://datascience.quantecon.org/python_fundamentals/functions.html), [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 7. **January 31** - Preparation for PS3 (C-D function, returns to scale, etc), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html), and start [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
 8. **February 2** - National Day for Truth and Reconciliation, no class
 9.  **February 7** - PS2 review, Finish [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html)
