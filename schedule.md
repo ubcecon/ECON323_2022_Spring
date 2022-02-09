@@ -9,9 +9,9 @@ This is a tentative schedule and will be updated as the course progresses.
 6. **January 26** - PS1 review,  [Numpy](https://datascience.quantecon.org/scientific/numpy_arrays.html)
 7. **January 31** - Net present value stuff (preparation for PS 3), [Plotting Intro](https://datascience.quantecon.org/scientific/plotting.html)
 8. **February 2** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) 
-9.  **February 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html) and [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
+9.  **February 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
+10. **February 9** - PS2 review, [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
 <!--
-10. **February 9** - 
 11. **February 14** - PS3 review, [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
 12. **February 16** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html)
 13. **February 21** - Midterm Break PS4 review, [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
