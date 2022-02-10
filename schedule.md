@@ -11,20 +11,20 @@ This is a tentative schedule and will be updated as the course progresses.
 8. **February 2** - [Linear Algebra](https://datascience.quantecon.org/scientific/applied_linalg.html) 
 9.  **February 7** - [Randomness](https://datascience.quantecon.org/scientific/randomness.html)
 10. **February 9** - PS2 review, [Optimization](https://datascience.quantecon.org/scientific/optimization.html)
-<!--
 11. **February 14** - PS3 review, [Pandas Intro](https://datascience.quantecon.org/pandas/intro.html)
-12. **February 16** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Storage Formats](https://datascience.quantecon.org/pandas/storage_formats.html)
-13. **February 21** - Midterm Break PS4 review, [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
-14. **February 23** - Midterm Break [Reshape](https://datascience.quantecon.org/pandas/reshape.html)
-15. **February 28** - [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
-16. **March 2** - PS5 review, [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-17. **March 7** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
-18. **March 9** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-19. **March 14** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-20. **March 16** - Midterm Break
-21. **March 21** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-22. **March 23** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-23. **March 28** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+12.  **February 16** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
+13.  **February 21** - Midterm Break
+14.  **February 23** - Midterm Break
+<!-- 
+15.  **February 28** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html) [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
+16.  **March 2** - PS5 review, [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
+17.  **March 7** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+18.  **March 9** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+19.  **March 14** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+20.  **March 16** - Midterm Break
+21.  **March 21** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+22.  **March 23** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+23.  **March 28** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 24. **March 30** - PS7 review, Brainstorming Session on the Final Project
 25. **April 4** -  [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 26. **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
