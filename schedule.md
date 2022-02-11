@@ -38,8 +38,8 @@ This is a tentative schedule and will be updated as the course progresses.
 1. Due **January 21** - [Problem Set 1](/problem_sets/problem_set_1.ipynb) (uploaded as **executed** ipynb through Canvas)
 2. Due **January 31** - [Problem Set 2](/problem_sets/problem_set_2.ipynb)
 3. Due **February 9** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
+4. Due **February 18**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
 <!--
-4. Due **October 15th**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
 5. Due **October 24th** - [Problem Set 5](/problem_sets/problem_set_5.ipynb)
 6. Due **November 3rd** - [Problem Set 6](/problem_sets/problem_set_6.ipynb)
 7. Due **November 22nd** - [Problem Set 7](/problem_sets/problem_set_7.html)
