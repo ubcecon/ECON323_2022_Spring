@@ -15,8 +15,8 @@ This is a tentative schedule and will be updated as the course progresses.
 12.  **February 16** - [Pandas Basics](https://datascience.quantecon.org/pandas/basics.html), [Cleaning Data](https://datascience.quantecon.org/pandas/data_clean.html)
 13.  **February 21** - Midterm Break
 14.  **February 23** - Midterm Break
-<!-- 
 15.  **February 28** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html) [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
+<!-- 
 16.  **March 2** - PS5 review, [Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 17.  **March 7** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
 18.  **March 9** - [Regression](https://datascience.quantecon.org/applications/regression.html)
