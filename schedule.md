@@ -18,18 +18,18 @@ This is a tentative schedule and will be updated as the course progresses.
 15.  **February 28** - [Reshape](https://datascience.quantecon.org/pandas/reshape.html), [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html)
 16.  **March 2** - More examples of [Merge](https://datascience.quantecon.org/pandas/merge.html), [Groupby](https://datascience.quantecon.org/pandas/groupby.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
 17.  **March 7** - PS4 review, [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html) continued, [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html)
+18.  **March 9** - [Visualization](https://datascience.quantecon.org/applications/visualization_rules.html) continued, [Mapping](https://datascience.quantecon.org/applications/maps.html), and start with [Regression](https://datascience.quantecon.org/applications/regression.html)
 <!--
-[Matplotlib](https://datascience.quantecon.org/pandas/matplotlib.html), [Timeseries](https://datascience.quantecon.org/pandas/timeseries.html)
-1.   **March 9** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-2.   **March 14** - [Regression](https://datascience.quantecon.org/applications/regression.html)
-3.   **March 16** - Midterm Break
-4.   **March 21** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
-5.   **March 23** - [Classification](https://datascience.quantecon.org/applications/classification.html)
-6.   **March 28** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-7.  **March 30** - PS7 review, Brainstorming Session on the Final Project
-8.  **April 4** -  [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-9.  **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-10. **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+ 
+1.   **March 14** - [Regression](https://datascience.quantecon.org/applications/regression.html)
+2.   **March 16** - Midterm Break
+3.   **March 21** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+4.   **March 23** - [Classification](https://datascience.quantecon.org/applications/classification.html)
+5.   **March 28** - [Mapping](https://datascience.quantecon.org/applications/maps.html), [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+6.  **March 30** - PS7 review, Brainstorming Session on the Final Project
+7.  **April 4** -  [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
+8.  **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
+9.  **December 7** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 -->
 
 ## Problem Sets
@@ -41,7 +41,7 @@ This is a tentative schedule and will be updated as the course progresses.
 3. Due **February 9** - [Problem Set 3](/problem_sets/problem_set_3.ipynb)
 4. Due **February 18**- [Problem Set 4](/problem_sets/problem_set_4.ipynb)
 5. Due **March 7** - [Problem Set 5](/problem_sets/problem_set_5.ipynb)
+6. Due **March 14** - [Problem Set 6](/problem_sets/problem_set_6.ipynb)
 <!--
-6. Due **November 3rd** - [Problem Set 6](/problem_sets/problem_set_6.ipynb)
 7. Due **November 22nd** - [Problem Set 7](/problem_sets/problem_set_7.html)
 8. Due **November 19th** [Problem Set 8](https://datascience.quantecon.org/problem_sets/problem_set_8.html) or the exercises from [the covid prediction notebook](https://github.com/ubcecon/323-covid/blob/master/notebooks/covid-prediction.ipynb) -->
