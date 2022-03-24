@@ -22,14 +22,16 @@ This is a tentative schedule and will be updated as the course progresses.
 19. **March 14** - PS5 review, Overview of the rest of the lectures; [Regression](https://datascience.quantecon.org/applications/regression.html)
 20. **March 16** - [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation
 21. **March 21** - [Regression](https://datascience.quantecon.org/applications/regression.html): Random Forest, Neural Network
-22. **March 23** - PS6 review, [Classification](https://datascience.quantecon.org/applications/classification.html), [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html)
+22. **March 23** - PS6 review, [Classification](https://datascience.quantecon.org/applications/classification.html)
+23. **March 28** - PS7 review, [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html), Brainstorming session for the final project
+24. **March 30** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 <!--
 
-1. **March 28** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-2. **March 30** - PS7 review, Brainstorming Session on the Final Project
+1. [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+2. **March 30** - 
 3. **April 4** -  [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
 4. **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-[Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+
 -->
 
 ## Problem Sets
