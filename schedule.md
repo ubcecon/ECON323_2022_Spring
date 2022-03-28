@@ -23,8 +23,8 @@ This is a tentative schedule and will be updated as the course progresses.
 20. **March 16** - [Regression](https://datascience.quantecon.org/applications/regression.html): LASSO, Ridge, Cross-validation
 21. **March 21** - [Regression](https://datascience.quantecon.org/applications/regression.html): Random Forest, Neural Network
 22. **March 23** - PS6 review, [Classification](https://datascience.quantecon.org/applications/classification.html)
-23. **March 28** - PS7 review, [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html), Brainstorming session for the final project
-24. **March 30** - [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+23. **March 28** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html), Brainstorming session for the final project
+24. **March 30** - PS7 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 <!--
 
 1. [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
