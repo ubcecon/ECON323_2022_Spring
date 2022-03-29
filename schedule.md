@@ -25,14 +25,8 @@ This is a tentative schedule and will be updated as the course progresses.
 22. **March 23** - PS6 review, [Classification](https://datascience.quantecon.org/applications/classification.html)
 23. **March 28** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html), Brainstorming session for the final project
 24. **March 30** - PS7 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
-<!--
-
-1. [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
-2. **March 30** - 
-3. **April 4** -  [Covid trends](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-trends.ipynb), [Covid cases](https://github.com/ubcecon/ECON323_2020_Fall/blob/master/extra_notebooks/covid-cases.ipynb)
-4. **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
-
--->
+25. **April 4** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
+26. **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 
 ## Problem Sets
 **Important:** work on the problem sets in the [course git repository](https://github.com/ubcecon/ECON323_2022_Spring/tree/master/problem_sets), not the ones from `quantecon.org`! Do not do the `quantecon.org` problem sets that appear in `lecture-datascience.notebooks/problem_sets`!.
@@ -45,4 +39,4 @@ This is a tentative schedule and will be updated as the course progresses.
 5. Due **March 7** - [Problem Set 5](/problem_sets/problem_set_5.ipynb)
 6. Due **March 14** - [Problem Set 6](/problem_sets/problem_set_6.ipynb)
 7. Due **March 23** - [Problem Set 7](/problem_sets/problem_set_7.ipynb)
-8. *Optional* Due **March 29** [Problem Set 8](/problem_sets/problem_set_7.ipynb)
+8. *Optional* Due **March 29** [Problem Set 8](/problem_sets/problem_set_8.ipynb)
