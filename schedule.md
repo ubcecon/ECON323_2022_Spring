@@ -24,7 +24,7 @@ This is a tentative schedule and will be updated as the course progresses.
 21. **March 21** - [Regression](https://datascience.quantecon.org/applications/regression.html): Random Forest, Neural Network
 22. **March 23** - PS6 review, [Classification](https://datascience.quantecon.org/applications/classification.html)
 23. **March 28** - [Application: recidivism](https://datascience.quantecon.org/applications/recidivism.html), Brainstorming session for the final project
-24. **March 30** - PS7 review, [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
+24. **March 30** - PS7 review, introduction of natural language processing and [Working with text](https://datascience.quantecon.org/applications/working_with_text.html)
 25. **April 4** - [Machine learning in economics](https://datascience.quantecon.org/applications/ml_in_economics.html)
 26. **April 6** - [Heterogeneous effect](https://datascience.quantecon.org/applications/heterogeneity.html)
 
